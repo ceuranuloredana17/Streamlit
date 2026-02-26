@@ -41,6 +41,4 @@ Welcome to the Dairy Farm Analysis App! This Streamlit project lets you explore 
 
 
 
----
 
-Enjoy exploring your
